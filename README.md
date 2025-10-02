@@ -1,6 +1,6 @@
 # lifegame
 
-A new Flutter project.
+A Life gamification project
 
 ## Getting Started
 
